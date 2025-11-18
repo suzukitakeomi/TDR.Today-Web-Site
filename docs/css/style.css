@@ -1,0 +1,40 @@
+@charset "utf-8";
+.fontawesome{
+	font-family:	FontAwesome;
+}
+#contents{
+	padding:	10px;
+}
+.mtop10px{
+	margin-top:	10px !important;
+}
+#parkmenu{
+	margin-bottom:	10px;
+}
+#menutdr span{
+	padding-top:55px;
+	height:	55px;
+	font-size:	80%;
+	background-repeat:	no-repeat;
+	background-position:	center top;
+	background-image:	url('/static/img/tdr.svg');
+}
+#menutdl span{
+	padding-top:55px;
+	height:	55px;
+	font-size:	80%;
+	background-repeat:	no-repeat;
+	background-position:	center top;
+	background-image:	url('/static/img/tdl.svg');
+}
+#menutds span{
+	padding-top:55px;
+	height:	55px;
+	font-size:	80%;
+	background-repeat:	no-repeat;
+	background-position:	center top;
+	background-image:	url('/static/img/tds.svg');
+}
+#attractionblock .attractionwt{
+	text-align:	right;
+}
