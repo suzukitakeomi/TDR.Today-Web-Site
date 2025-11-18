@@ -17,7 +17,7 @@
 	font-size:	80%;
 	background-repeat:	no-repeat;
 	background-position:	center top;
-	background-image:	url('/static/img/tdr.svg');
+	background-image:	url('./../img/tdr.svg');
 }
 #menutdl span{
 	padding-top:55px;
@@ -25,7 +25,7 @@
 	font-size:	80%;
 	background-repeat:	no-repeat;
 	background-position:	center top;
-	background-image:	url('/static/img/tdl.svg');
+	background-image:	url('./../img/tdl.svg');
 }
 #menutds span{
 	padding-top:55px;
@@ -33,7 +33,7 @@
 	font-size:	80%;
 	background-repeat:	no-repeat;
 	background-position:	center top;
-	background-image:	url('/static/img/tds.svg');
+	background-image:	url('./../img/tds.svg');
 }
 #attractionblock .attractionwt{
 	text-align:	right;
